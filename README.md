@@ -30,6 +30,12 @@
  ## 3) Installatie Visual Studio
  Download de community versie van 2019 op <br>
  https://visualstudio.microsoft.com/vs/
+ 
+ ## 4) Project downloaden van deze github en openen.
+ 
+ Wanneer je deze github hebt gedownload ga je deze unzippen. Hierna ga je je Unity openen en je merkt dat de unity hub gaat openen. Je gaat er eerst voor moeten zorgen dat je een license hebt voor alle programma's. Dit doe je door een account te maken bij Unity en hierdoor krijg je een gratis license.
+Wanneer dit allemaal in orde is, ruk je op de 'Add'-knop om een nieuwe project in te laden. Je kiest de juiste map en vervolgens klik je op 'Map selecteren'. Nu gaat je project laden en als het geladen is dubbelklik je erop om het te doen starten. Unity gaat openen.
+ 
  ## Scripts bespreken
  U kan de scripts openen doot naar unity te gaan en dan naar project > Assets > Scripts te gaan. Hier zie je een aantal c# bestanden. Als je er op klikt openen ne in Visual studio 2019. In dit hoofstuk besrpeken wat elk script doet en waar u eventuele parameters kunt afspreken.
  - Datahandles <br>
