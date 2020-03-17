@@ -47,8 +47,9 @@
  
  Wanneer je deze github hebt gedownload ga je deze unzippen. Hierna ga je je Unity openen en je merkt dat de unity hub gaat openen. Je gaat er eerst voor moeten zorgen dat je een license hebt voor alle programma's. Dit doe je door een account te maken bij Unity en hierdoor krijg je een gratis license.
 Wanneer dit allemaal in orde is, druk je op de 'Add'-knop om een nieuwe project in te laden. Je kiest de juiste map en vervolgens klik je op 'Map selecteren'. Nu gaat je project laden en als het geladen is dubbelklik je erop om het te doen starten. Unity gaat open.
+
  
- ## Scripts bespreken
+ ## 5) cripts bespreken en evenuteel aanpassen
  U kan de scripts openen doot naar unity te gaan en dan naar project > Assets > Scripts te gaan. Hier zie je een aantal c# bestanden. Als je er op klikt openen ne in Visual studio 2019. In dit hoofstuk besrpeken wat elk script doet en waar u eventuele parameters kunt afspreken.
  - Datahandles <br>
 Dit is het script dat de data van de arduino zal inlezen en formateren om te displayen in het spel en te gebruiken in algoritmes. 
@@ -111,6 +112,12 @@ Pas hier niets aan.
 - Won <br>
 Dit script zorgt ervoor dat er knoppen komen die je de mogelijkheid geven om opnieuw te spelen of het spel af te sluiten. <br>
 Je mag hier aanpassing doen bij de '//'.
+
+## 6) Spel starten
+
+Wanneer je de nodige aanpassingen hebt gedaan zorg je ervoor dat alle scripts worden gesaved door simpelweg op ctrl + s te drukken op je toetsenbord. Doe dit niet op 1 script maar op alle verschillende scripten dat je hebt aangepast.
+Om het spel te doen starten ga je terug naar Unity en druk je bovenaan op de play button en het spel zou moeten starten.<br>
+Veel plezier!
 
 
 
