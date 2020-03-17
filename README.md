@@ -1,5 +1,5 @@
 # Tutotial Slender game
-## Hardware
+## Hardware 
 - Arduino Uno
 - sensoren om hartslag te meten
 - computer met beeldscherm
@@ -15,9 +15,21 @@
  - Neem de Arduino erbij en sluit deze aan op je computer met de bijhorende USB kabel
  - Installeer nu de software met de link die hierboven staat
  - Wij gebruiken een Pulse sensor voor ons project
- - Neem deze er bij en sluit deze als volgt aan=
- - Soldeer de volgende kabels op uw Pulse sensor indien dit nog niet gebeurd is: Zwart => GND(Ground), Rood => 3V3 (3,3 Volt), Blauw => SDA, Geel =>SCL, Wit=>RST(Reset), Oranje => MFIO 
- - Nu deze aan uw sensor hangen kan je je sensor aansluiten aan de Arduino: Zwart=> GND, Rood => 3V3, Blauw=> SDA, Geel => SCL, Wit=>RST(Reset), Oranje => MFIO.
+ - Neem deze er bij en sluit deze als volgt aan:
+ - Soldeer de volgende kabels op uw Pulse sensor indien dit nog niet gebeurd is: 
+   - Zwart => GND(Ground)
+   - Rood => 3V3 (3,3 Volt)
+   - Blauw => SDA
+   - Geel =>SCL
+   - Wit=>RST(Reset)
+   - Oranje => MFIO 
+- Nu deze aan uw sensor hangen kan je je sensor aansluiten aan de Arduino: 
+  - Zwart=> GND
+  - Rood => 3V3
+  - Blauw=> SDA
+  - Geel => SCL 
+  - Wit=>RST(Reset)
+  - Oranje => MFIO
  
   ![Image description](https://media.discordapp.net/attachments/509367562157555713/688758590143463464/20200219_163057.jpg?width=368&height=655)
  - Nu de sensor is aangesloten en de arduino verbonden is met je computer, kan het programma gedownload worden (https://github.com/aliekens/pulse_sensor_tutorial)
@@ -34,7 +46,7 @@
  ## 4) Project downloaden van deze github en openen.
  
  Wanneer je deze github hebt gedownload ga je deze unzippen. Hierna ga je je Unity openen en je merkt dat de unity hub gaat openen. Je gaat er eerst voor moeten zorgen dat je een license hebt voor alle programma's. Dit doe je door een account te maken bij Unity en hierdoor krijg je een gratis license.
-Wanneer dit allemaal in orde is, ruk je op de 'Add'-knop om een nieuwe project in te laden. Je kiest de juiste map en vervolgens klik je op 'Map selecteren'. Nu gaat je project laden en als het geladen is dubbelklik je erop om het te doen starten. Unity gaat openen.
+Wanneer dit allemaal in orde is, druk je op de 'Add'-knop om een nieuwe project in te laden. Je kiest de juiste map en vervolgens klik je op 'Map selecteren'. Nu gaat je project laden en als het geladen is dubbelklik je erop om het te doen starten. Unity gaat open.
  
  ## Scripts bespreken
  U kan de scripts openen doot naar unity te gaan en dan naar project > Assets > Scripts te gaan. Hier zie je een aantal c# bestanden. Als je er op klikt openen ne in Visual studio 2019. In dit hoofstuk besrpeken wat elk script doet en waar u eventuele parameters kunt afspreken.
