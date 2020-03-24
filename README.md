@@ -1,4 +1,4 @@
-# Tutotial Slender game
+# Tutorial Slender game
 ## Hardware 
 - Arduino Uno
 - sensoren om hartslag te meten
